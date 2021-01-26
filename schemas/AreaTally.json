@@ -40,7 +40,10 @@
               "Better",
               "Best"
             ]
-          }
+        },
+        "Cost": {
+            "type": "string"
+        }
     },
     "additionalProperties": false
 }
